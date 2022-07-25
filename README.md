@@ -1,1 +1,1 @@
-# team1
+https://forresetbot.github.io/team1/
